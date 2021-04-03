@@ -17,7 +17,8 @@ Hi, welcome to my space. I'm currently pursuing my master's degree in Applied Ar
 
 
 `Education`
-Sungkyunkwan University March. 2016 ~ August. 2020 
+
+**Sungkyunkwan University March. 2016 ~ August. 2020** 
 Bachelor of Arts in Psychology
 Bachelor of Science in Samsung Convergence Software Cours (SCSC)
 
@@ -25,6 +26,4 @@ Bachelor of Science in Samsung Convergence Software Cours (SCSC)
 `Research Interest`
 
 My research interest is in implementing deep learning networks which resemble the human cognition process. I have focused on data mining to make better performance of machine learning models by applying psychological background of human behaviors. For example, using expectation confirmation theory to improve the deep learning networks to predict satisfaction of the customers. For the further details of my research, please refer [publications page](./publications/).
-
-Currently, I'm focusing on music generation for ADHD therapy. 
 
