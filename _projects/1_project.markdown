@@ -8,11 +8,12 @@ importance: 1
 
 Creating Medicine App with Android Studio at 07.2019 in undergraduate project for ICE3037. 
 This app designed with android studio (language: Java) to make users easily find information of the medicine they take. 
-In addition, out team included alarm function to alert users to take medicine at the right time. 
+Crop the image area with medicine number which is surrounded by red block. And then using Google cloud vision API to get numbers from cropped image area. 
+In addition, our team included alarm function to alert users to take medicine at the right time. 
 Here's the <a href="https://github.com/letsgititdana/medi">github page</a>.
 
     ---
-    Main Function : Search Medicine & Save it to user DB
+    Main Function : Search Medicine from image & Save it to user DB
     ---
 
 
@@ -28,7 +29,7 @@ Here's the <a href="https://github.com/letsgititdana/medi">github page</a>.
     </div>
 </div>
 <div class="caption">
-    Here's the flow of the main function. Users take picture of the medicine number from prescriptions. Then they can fix the numbers manually. By the given number, users get information of the medicine which is uploaded on the users' own database. 
+    Here's the flow of the main function. Users take picture of the medicine number from prescriptions and then automatically cropped the image area with numbers. Then users can fix the numbers manually if there's error. By the given number, users get information of the medicine which is uploaded on the users' own database automatically. 
 </div>
 
     ---
