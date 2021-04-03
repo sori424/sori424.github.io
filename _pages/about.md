@@ -20,9 +20,9 @@ Hi, welcome to my space. I'm currently pursuing my master's degree in Applied Ar
 
 **Sungkyunkwan University March. 2016 ~ August. 2020** 
 
-Bachelor of Arts in Psychology
+B.A. in Psychology
 
-Bachelor of Science in Samsung Convergence Software Cours (SCSC)
+B.S. in Engineering Samsung Convergence Software Course (SCSC)
 
 
 `Research Interest`
