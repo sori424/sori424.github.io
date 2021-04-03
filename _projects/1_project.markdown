@@ -10,6 +10,9 @@ Creating Medicine App with Android Studio at 07.2019 in undergraduate project fo
 This app designed with android studio (lang: Java) to make users easily find information of the medicine they take. 
 In addition, out team included alarm function to alert users to take medicine at the right time. 
 
+    ---
+    Main Function : Search Medicine & Save it to user DB
+    ---
 
 
 <div class="row">
@@ -26,6 +29,10 @@ In addition, out team included alarm function to alert users to take medicine at
 <div class="caption">
     Here's the flow of the main function. Users take picture of the medicine number from prescriptions. Then they can fix the numbers manually. By the given number, users get information of the medicine which is uploaded on the users' own database. 
 </div>
+
+    ---
+    Secondary Function : Set alarm to take medicine
+    ---
 
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
