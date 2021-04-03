@@ -6,7 +6,7 @@ description: M.Sc. Student in Applied Artificial Intelligence at Sungkyunkwan Un
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   address: >
     <p>555 your office number</p>
     <p>123 your address street</p>
