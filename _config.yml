@@ -67,8 +67,8 @@ wikidata_id: # your wikidata id
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Research Materials  # your blog must have a name for it to show up in the nav bar
-blog_description: a study materials for my research
+blog_name: Records  # your blog must have a name for it to show up in the nav bar
+blog_description: a miscellaneous in my life
 permalink: /blog/:year/:title/
 
 # Pagination
