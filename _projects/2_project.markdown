@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: Music tag recommendation
+title: Music tag recommendation
+description: Using melon data for tag recommendation
 img: /assets/img/p2.jpg
 importance: 2
 ---
