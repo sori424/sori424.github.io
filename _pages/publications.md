@@ -14,9 +14,5 @@ nav: true
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
-{% for y in page.html%}
-  <h2 class="html">{{y}}</h2>
-  {% bibliography -f papers -q @*[html={{y}}]* %}
-{% endfor %}
 
 </div>
