@@ -15,6 +15,8 @@ The intervention which make up the stress for each group was take a difficult te
 
 We conducted the pilot experiment with N=5.
 
+The result didn't match with our experiment. The confounded factors can be suggested with the different status of the hunger between subjects and also the intervention material might not effect the stress level. 
+
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/intervention.jpg' | relative_url }}" alt="" title="example image"/>
@@ -22,16 +24,11 @@ We conducted the pilot experiment with N=5.
     <div class="col-sm-4 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/stress.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
-</div>
-<div class="caption">
-    The used test for intervention and stress measurement.
-  </div>
-
-<div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/p3.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
-    The poster of the experimental design. 
-</div>
+    The used test for intervention and stress measurement. And final poster of experiment. 
+  </div>
+
