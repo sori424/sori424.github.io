@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: M.Sc. Student in Applied Artificial Intelligence at Sungkyunkwan University
-
+description: 
 profile:
   align: right
   image: profile.jpg
@@ -13,7 +12,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, welcome to my space. I'm currently pursuing my master's degree in Applied Artificial Intelligence department advised by <a href="https://sites.google.com/view/eunil">Eunil Park</a> at Sungkyunkwan University. 
+Hi, welcome to my space. I'm currently pursuing my master's degree in Applied Artificial Intelligence department advised by <a href="https://sites.google.com/view/eunil">Eunil Park</a> at Sungkyunkwan University. Here's my [Curriculum Vitae](./assets/cv (1).pdf).
 
 
 `Education`
