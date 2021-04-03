@@ -7,8 +7,9 @@ importance: 1
 ---
 
 Creating Medicine App with Android Studio at 07.2019 in undergraduate project for ICE3037. 
-This app designed with android studio (lang: Java) to make users easily find information of the medicine they take. 
+This app designed with android studio (language: Java) to make users easily find information of the medicine they take. 
 In addition, out team included alarm function to alert users to take medicine at the right time. 
+Here's the <a href="https://github.com/letsgititdana/medi">github page</a>.
 
     ---
     Main Function : Search Medicine & Save it to user DB
