@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Tag recommendation
+title: melon arena
 description: Music tag recommendation
 img: /assets/img/p2.jpg
-importance: 1
+importance: 3
 ---
 
 Conducted a music tag recommendation with basic recommendation algorithms as a part of DAI5001 graduate lecture . 
