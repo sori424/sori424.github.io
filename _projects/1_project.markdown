@@ -2,7 +2,7 @@
 layout: page
 title: Medi
 description: Medicine App by Android Studio
-img: /assets/img/p1.PNG
+img: /assets/img/p1.png
 importance: 1
 ---
 
@@ -14,13 +14,13 @@ In addition, out team included alarm function to alert users to take medicine at
 
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/1.PNG' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/1.png' | relative_url }}" alt="" title="example image"/>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/2.PNG' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/2.png' | relative_url }}" alt="" title="example image"/>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/3.PNG' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/3.png' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
@@ -29,13 +29,13 @@ In addition, out team included alarm function to alert users to take medicine at
 
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/4.PNG' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/4.png' | relative_url }}" alt="" title="example image"/>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.PNG' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.png' | relative_url }}" alt="" title="example image"/>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.PNG' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.png' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
