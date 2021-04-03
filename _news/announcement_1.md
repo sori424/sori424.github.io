@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: Feb. 2021
 inline: true
 ---
 
-A simple inline announcement.
+Machine learning on repeat visitors paper was accepted in Data Technologies and Applications! 🎉
