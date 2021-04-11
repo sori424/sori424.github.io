@@ -46,7 +46,7 @@ We analyzed this by the degree centrality of city graph. If the degree centralit
     <div class="col-sm-4 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/city.PNG' | relative_url }}" alt="" title="example image"/>
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-5 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/c1.PNG' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
