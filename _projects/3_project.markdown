@@ -19,13 +19,13 @@ Conducted a music playlist tag recommendation with basic recommendation algorith
 
 
 <div class="row">
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-5 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/ply.PNG' | relative_url }}" alt="" title="example image"/>
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-5 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/nmf.PNG' | relative_url }}" alt="" title="example image"/>
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-5 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/als_ex.PNG' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
