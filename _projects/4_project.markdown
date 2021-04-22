@@ -39,7 +39,7 @@ Next, we used weighted bipartite graph network to analyze the crime and city dat
 
 **H2: The number of crime occurrences changed in certain cities compared to 2019 which is related to COVID-19.**
 
-We analyzed this by the degree centrality of city graph. If the degree centrality of a certain city gets highers, than the certain city increase with the varous crime types. To figure out the correlationship with covid-19, we averaged the confirmed cases in Feb to Sep. Therefore, we find out that the city with increased degree centrality showed higher confirmed cases whereas city with decreased degree centrality showed lower confirmed cases.
+We analyzed this by the degree centrality of city graph. The increase of degree centrality of a certain city indicates that the certain city increases with the increase of crime types. To figure out the co-relationship with covid-19 and increased degree centrality, we calculated the average for the rate of increase or decrease compared to the previous month in Feb to Sep. Therefore, we find out that the city with increased degree centrality showed higher increasement rate of confirmed cases whereas city with decreased degree centrality showed lower increasement rate of confirmed cases.
 
 
 <div class="row justify-content-sm-center">
@@ -69,7 +69,7 @@ Among the 11 crime types, homicide showed the opposite degree centrality compare
     <div class="col-sm-4 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/crime.PNG' | relative_url }}" alt="" title="example image"/>
     </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/cr1.PNG' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
