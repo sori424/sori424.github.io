@@ -1,7 +1,7 @@
 ---
 layout: post
-date: April.12 2021
+date: Apr. 2021
 inline: true
 ---
 
-🎉 Jujeop paper accepted in NAACL Workshop Social NLP 2021 Data Paper !  
+🎉 Jujeop paper accepted in Social NLP 2021 @ NAACL !  
