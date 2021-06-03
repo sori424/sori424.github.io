@@ -14,6 +14,8 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, welcome to my space. I'm currently pursuing my master's degree in Applied Artificial Intelligence department advised by <a href="https://sites.google.com/view/eunil">Eunil Park</a> at Sungkyunkwan University. Here's my [Curriculum Vitae](./assets/pdf/cv.pdf){:target="\_blank"}.
 
+I'll be graduating next year, so I'm looking for Phd position to continue this journey on! 🍀
+
 
 `Education`
 
