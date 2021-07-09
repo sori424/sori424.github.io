@@ -1,6 +1,6 @@
 ---
 layout: post
-date: May 2021
+date: 2021-05
 inline: true
 ---
 
