@@ -17,6 +17,10 @@ Hi, welcome to my space. I'm currently pursuing my master's degree in Applied Ar
 I'll be graduating next year, so I'm looking for Phd position to continue this journey on! 🍀
 
 
+`Research Interest`
+
+My research interest is in implementing deep learning networks which resemble the human. I have focused on data mining to make better performance of machine learning models by applying psychological background of human behaviors. For example, using <a href="https://en.wikipedia.org/wiki/Expectation_confirmation_theory">expectation confirmation theory</a> to improve the deep learning networks to predict satisfaction of the customers. For the further details of my research, please refer [publications page](./publications/). Feel free to ping me if you have any questions.
+
 `Education`
 
 <a href="https://www.skku.edu/eng/About/s620/sub02_01.do">Sungkyunkwan University</a>
@@ -24,9 +28,3 @@ I'll be graduating next year, so I'm looking for Phd position to continue this j
 B.A. in Psychology
 
 B.S. in Engineering Samsung Convergence Software Course (SCSC)
-
-
-`Research Interest`
-
-My research interest is in implementing deep learning networks which resemble the human cognition process. I have focused on data mining to make better performance of machine learning models by applying psychological background of human behaviors. For example, using expectation confirmation theory to improve the deep learning networks to predict satisfaction of the customers. For the further details of my research, please refer [publications page](./publications/).
-
