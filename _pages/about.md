@@ -19,7 +19,7 @@ I'll be graduating next year, so I'm looking for Phd position to continue this j
 
 `Education`
 
-**Sungkyunkwan University March. 2016 ~ August. 2020** 
+<a href="https://www.skku.edu/eng/About/s620/sub02_01.do">Sungkyunkwan University</a>
 
 B.A. in Psychology
 
