@@ -4,4 +4,4 @@ date: Feb 2021
 inline: true
 ---
 
-:tada: Machine learning on repeat visitors paper accepted in Data Technologies and Applications! 
+<a href="publications">Machine learning on repeat visitors paper</a> accepted in Data Technologies and Applications! :tada:
