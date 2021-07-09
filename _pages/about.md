@@ -2,17 +2,12 @@
 layout: about
 title: about
 permalink: /
-description: MSc in Applied Artificial Intelligence, Sungkyunkwan University
+description: 
 profile:
   align: right
   image: profile.jpg
   address: >
-    `Education`
-    <p><a href="https://www.skku.edu/eng/About/s620/sub02_01.do">Sungkyunkwan University</a></p>
-    <p>M.Sc. Applied Artificial Intelligence</p>
-    <p><a href="https://www.skku.edu/eng/About/s620/sub02_01.do">Sungkyunkwan University</a></p>
-    <p>B.A. in Psychology</p>
-    <p>B.S. in Engineering Samsung Convergence Software Course (SCSC)</p> 
+
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -28,10 +23,10 @@ I'll be graduating next year, so I'm looking for Phd position to continue this j
 
 My research interest is in implementing deep learning networks which resemble the human. I have focused on data mining to make better performance of machine learning models by applying psychological background of human behaviors. For example, using <a href="https://en.wikipedia.org/wiki/Expectation_confirmation_theory">expectation confirmation theory</a> to improve the deep learning networks to predict satisfaction of the customers. For the further details of my research, please refer [publications page](./publications/). Feel free to ping me if you have any questions.
 
-<!---`Education`
+`Education`
 
 <a href="https://www.skku.edu/eng/About/s620/sub02_01.do">Sungkyunkwan University</a>
 
 B.A. in Psychology
 
-B.S. in Engineering Samsung Convergence Software Course (SCSC)--->
+B.S. in Engineering Samsung Convergence Software Course (SCSC)
