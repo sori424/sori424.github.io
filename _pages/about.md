@@ -12,7 +12,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, welcome to my space. I'm currently pursuing my master's degree in Applied Artificial Intelligence department advised by <a href="https://sites.google.com/view/eunil">Eunil Park</a> at Sungkyunkwan University. Here's my [Curriculum Vitae](./assets/pdf/SoyoungOh_CV.pdf){:target="\_blank"}.
+Hi, welcome to my space. I'm currently pursuing my master's degree in Applied Artificial Intelligence department advised by <a href="https://sites.google.com/view/eunil">Eunil Park</a> at <a href="https://www.skku.edu/eng/About/s620/sub02_01.do">Sungkyunkwan University</a>. Here's my [Curriculum Vitae](./assets/pdf/SoyoungOh_CV.pdf){:target="\_blank"}.
 
 I'll be graduating next year, so I'm looking for Phd position to continue this journey on! 🍀
 
