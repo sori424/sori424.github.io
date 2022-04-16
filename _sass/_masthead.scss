@@ -15,7 +15,7 @@
     @include container;
     @include clearfix;
     padding: 1em 1em 1em;
-    font-family: $sans-serif-narrow;
+    font-family: Raleway, $sans-serif-narrow;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -47,6 +47,7 @@
   white-space: nowrap;
 
   &--lg {
+    font-family: Raleway, sans-serif;
     padding-right: 2em;
     font-weight: 700;
   }
