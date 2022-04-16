@@ -35,6 +35,9 @@
 }
 
 .page__title {
+  font-family: Raleway, sans-serif;
+  line-height: 1.2em;
+  font-size: 28px;
   margin-top: 0;
   line-height: 1;
 
@@ -56,7 +59,12 @@
   }
 
   p, li, dl {
-    font-size: 1em;
+    font-size: 15px;
+    margin-bottom: 15px;
+    font-family: "Merriweather", sans-serif;
+    font-weight: 300;
+    color: #222;
+    line-height: 1.9em;
   }
 
   /* paragraph indents */
