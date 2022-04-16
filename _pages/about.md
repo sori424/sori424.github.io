@@ -13,4 +13,4 @@ I am an incoming PhD student in Computer and Communication Sciences (EDIC) at EP
 
 My research broadly lies in the areas of human-centered computing, ethical computing, and natural language processing (NLP) with an emphasis on psychological perspective. I hope to advance the explainability of artificial intelligence based on the understanding of human cognition. Currently, I'm interested in human-in-the-loop NLP. Please reach out if you'd like to chat or collaborate with me. 
 
-Beside research, I like to go hiking, running, weight training, yoga (all kinds of exerices 🏋️) and traveling ✈️. Always welcome workout buddy!
+Beside research, I like to go hiking, running, weight training, yoga (all kinds of exerices 🏋️) and traveling ✈️ (visited 🇯🇵, 🇪🇸, 🇺🇸, 🇻🇳, 🇩🇪, 🇦🇹). Always welcome workout buddy!
