@@ -42,7 +42,7 @@ author_profile: true
   </li>
   <li>
     Jina Kim, HongGeun Ji, Soyoung Oh, Syjung Hwang, Eunil Park, Angel P del Pobil (2021).
-    <a href="https://www.sciencedirect.com/science/article/pii/S0969698920313898">AA deep hybrid learning model for customer repurchase behavior.</a>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0969698920313898">A deep hybrid learning model for customer repurchase behavior.</a>
     Journal of Retailing and Consumer Services.
   </li>
 </ul>
