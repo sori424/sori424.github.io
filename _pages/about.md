@@ -20,7 +20,7 @@ Besides research, I like to go hiking, running, weight training, yoga (all kinds
 
 <div style="height:130px;width:100%;margin-right:25px;margin-bottom:5px;display:inline-block;text-align:left;padding-left:10px;padding-top:10px;border:1px solid #ccc;overflow:auto;font:13px Merriweather, sans-serif;">
 
-<span style="color: #52adc8;">[2022.Apr]</span>&nbsp;&nbsp;🔜 Will attend FAccT'22 as a student volunteer in-person. 
+<span style="color: #52adc8;">[2022.Apr]</span>&nbsp;&nbsp;🔜 Will attend FAccT'22 as a student volunteer in-person. Please reach out if you'll be there 🖐
 <br>
 <span style="color: #52adc8;">[2022.Apr]</span>&nbsp;&nbsp;🥳 Are you aware of what you are watching? Role of machine heuristic in online content recommendations has been accepted for presentation at the ICWSM 2022 Workshop on Cyber Social Threats (CySoc)!
 <br>
