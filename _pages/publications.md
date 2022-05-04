@@ -21,7 +21,7 @@ author_profile: true
   <li>
     Soyoung Oh, Eunil Park (2022).
     <a href="https://arxiv.org/pdf/2203.08373">Are you aware of what you are watching? Role of machine heuristic in online content recommendations.</a>
-    arXiv, preprint arXiv:2203.08373.
+    In Proceedings of ICWSM Workshop on Cyber Social Threats (CySoc).
   </li>
   <li>
     Soyoung Oh, Honggeun Ji, Jina Kim, Eunil Park, Angel P del Pobil (2022).
