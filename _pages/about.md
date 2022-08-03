@@ -21,6 +21,8 @@ Besides research, I like to go hiking, running, weight training, yoga (all kinds
 <div style="height:150px;width:100%;margin-right:25px;margin-bottom:5px;display:inline-block;text-align:left;padding-left:10px;padding-top:10px;border:1px solid #ccc;overflow:auto;font:15px Merriweather, sans-serif;">
   
 <small>
+<span style="color: #52adc8;">[2022.Aug]</span>&nbsp;&nbsp;DemoHash: Hashtag Recommendation based on User Demographic Information has been accepted at<strong><u> Expert Systems With Applications</u></strong>! 🥳
+<br>
 <span style="color: #52adc8;">[2022.May]</span>&nbsp;&nbsp;Selected as a recipient of the <strong><u>ICWSM 2022</u></strong> virtual scholarship!
 <br>
 <span style="color: #52adc8;">[2022.Apr]</span>&nbsp;&nbsp;Will attend <strong><u>FAccT'22</u></strong> as a student volunteer in-person. Please reach out if you'll be there 🖐
