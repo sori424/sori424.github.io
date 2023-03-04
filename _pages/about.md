@@ -9,11 +9,11 @@ redirect_from:
 
 
 Hi, Glad you stopped by :) I'm So-young, 소영, 素暎 from South Korea 🇰🇷. 
-I am an incoming PhD student in Computer and Communication Sciences (EDIC) at [EPFL](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/) with EDIC Fellowship, starting from this Fall 2022. I received my Master's in Applied AI and Bachelor's in Psychology & Engineering from [Sungkyunkwan University](https://www.skku.edu/eng/) where I gained my interest in interdisciplinary research. 
+I am a PhD student in Computer and Communication Sciences (EDIC) at [EPFL](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/) with EDIC Fellowship, starting from this Fall 2022. I received my Master's in Applied AI and Bachelor's in Psychology & Engineering from [Sungkyunkwan University](https://www.skku.edu/eng/) where I gained my interest in interdisciplinary research. 
 
 My research broadly lies in the areas of human-centered computing, ethical computing, and natural language processing (NLP) with an emphasis on psychological perspective. I hope to advance the explainability of artificial intelligence based on the understanding of human cognition. Currently, I'm interested in human-in-the-loop NLP. Please reach out if you'd like to chat or collaborate with me. 
 
-Offline, I like to go hiking, running, weight training, yoga (all kinds of exercises 🏋️), and traveling (visited 🇯🇵, 🇪🇸, 🇺🇸, 🇻🇳, 🇩🇪, 🇦🇹). And always welcome philosophical conversations!
+Offline, I like to go hiking, running, weight training, judo, jiu-jitsu (all kinds of exercises 🏋️), and traveling (visited 🇯🇵, 🇪🇸, 🇺🇸, 🇻🇳, 🇩🇪, 🇮🇹, 🇨🇭). And always welcome philosophical conversations!
 
 
 <h3 style="font-size: 22px; font-family: Raleway, sans-serif;">News</h3>
