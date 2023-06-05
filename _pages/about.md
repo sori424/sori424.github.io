@@ -32,10 +32,6 @@ Offline, I like to go hiking, running, weight training, judo, jiu-jitsu (all kin
 <br>
 <span style="color: #52adc8;">[2022.Apr]</span>&nbsp;&nbsp;Are you aware of what you are watching? Role of machine heuristic in online content recommendations has been accepted for presentation at the <strong><u>ICWSM 2022</u></strong> Workshop on Cyber Social Threats (CySoc)! 🥳
 <br>
-<span style="color: #52adc8;">[2022.Mar]</span>&nbsp;&nbsp;Will attend EPFL Open House virtually. 🖐
-<br>
-<span style="color: #52adc8;">[2022.Feb]</span>&nbsp;&nbsp;Decided to attend <strong><u>EPFL</u></strong> for continuing my research as a PhD student.
-<br>
 <span style="color: #52adc8;">[2021.Dec]</span>&nbsp;&nbsp;Measuring Embedded Human-like Biases in Face Recognition Models has been accepted for presentation at the <strong><u>AAAI 2022</u></strong> Workshop on Artificial Intelligence with Biased or Scarce Data (AIBSD 2022)! 🌟
 </small>
   
