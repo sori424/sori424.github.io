@@ -22,7 +22,7 @@ Offline, I like to go hiking, running, weight training, judo, jiu-jitsu (all kin
   
 <small>
   
-<span style="color: #52adc8;">[2023.May]</span>&nbsp;&nbsp;PeaCoK: Persona Commonsense Knowledge for Consistent and Engaging Narratives has been accepted at<strong><u> ACL2023</u></strong>! 🥳
+<span style="color: #52adc8;">[2023.May]</span>&nbsp;&nbsp;PeaCoK: Persona Commonsense Knowledge for Consistent and Engaging Narratives has been accepted at<strong><u> ACL2023</u></strong> with <strong><u>Outstanding Paper award</u></strong>! 🥳
 <br>  
 <span style="color: #52adc8;">[2022.Aug]</span>&nbsp;&nbsp;DemoHash: Hashtag Recommendation based on User Demographic Information has been accepted at<strong><u> Expert Systems With Applications</u></strong>! 🥳
 <br>
