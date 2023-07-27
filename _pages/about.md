@@ -13,7 +13,7 @@ I am a first year PhD student in Computer and Communication Sciences (EDIC) at [
 
 My research broadly lies in the areas of human-centered computing, ethical computing, and natural language processing (NLP) with an emphasis on psychological perspective. I hope to advance the explainability of artificial intelligence based on the understanding of human cognition. Currently, I'm interested in human-in-the-loop NLP. Please reach out if you'd like to chat or collaborate with me. 
 
-Offline, I like to go hiking, running, weight training, judo, jiu-jitsu (all kinds of exercises 🏋️), and traveling (visited 🇯🇵, 🇪🇸, 🇺🇸, 🇻🇳, 🇩🇪, 🇮🇹, 🇨🇭). And always welcome philosophical conversations!
+Offline, I like to go hiking, running, weight training, judo, jiu-jitsu (all kinds of exercises 🏋️), and traveling (visited 🇯🇵, 🇪🇸, 🇺🇸, 🇻🇳, 🇩🇪, 🇮🇹, 🇨🇭, 🇦🇹, 🇵🇹). And always welcome philosophical conversations!
 
 
 <h3 style="font-size: 22px; font-family: Raleway, sans-serif;">News</h3>
