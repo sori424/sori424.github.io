@@ -9,9 +9,11 @@ redirect_from:
 
 
 Hi, Glad you stopped by :) I'm So-young, 소영, 素暎 from South Korea 🇰🇷. 
-I am a first year PhD student in Computer and Communication Sciences (EDIC) at [EPFL](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/) with EDIC Fellowship. I received my Master's in Applied AI and Bachelor's in Psychology & Engineering from [Sungkyunkwan University](https://www.skku.edu/eng/) where I gained my interest in interdisciplinary research. 
+I am a first year PhD student in Computer Science and Computational Linguistics under the supervision of Professor [Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html). 
 
-My research broadly lies in the areas of human-centered computing, ethical computing, and natural language processing (NLP) with an emphasis on psychological perspective. I hope to advance the explainability of artificial intelligence based on the understanding of human cognition. Currently, I'm interested in human-in-the-loop NLP. Please reach out if you'd like to chat or collaborate with me. 
+I spent a year at [EPFL](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/) with EDIC Fellowship as a PhD student, where I collaborated with Professor [Antoine Bosselut](https://people.epfl.ch/antoine.bosselut) and Professor [Frédéric Kaplan](https://people.epfl.ch/frederic.kaplan?lang=en) on the topic of Large Language Models. Before then, I received my Master's in Applied AI and Bachelor's in Psychology & Engineering from [Sungkyunkwan University](https://www.skku.edu/eng/) under the supervision of Professor [Eunil Park](https://sites.google.com/view/eunil) where I gained my interest in interdisciplinary research. 
+
+My research lies in the areas of human-centered computing, and natural language processing (NLP) with an emphasis on psychological perspective. I hope to advance the explainability of NLP models based on the understanding of human cognition. Currently, I'm interested in using eye-tracking datasets to improve the performance and explainability of the NLP models. Please reach out if you'd like to chat or collaborate with me. 
 
 Offline, I like to go hiking, running, weight training, judo, jiu-jitsu (all kinds of exercises 🏋️), and traveling (Visited 🇯🇵, 🇪🇸, 🇺🇸, 🇻🇳, 🇩🇪, 🇮🇹, 🇨🇭, 🇦🇹, 🇵🇹). And always welcome philosophical conversations!
 
@@ -21,7 +23,9 @@ Offline, I like to go hiking, running, weight training, judo, jiu-jitsu (all kin
 <div style="height:150px;width:100%;margin-right:25px;margin-bottom:5px;display:inline-block;text-align:left;padding-left:10px;padding-top:10px;border:1px solid #ccc;overflow:auto;font:15px Merriweather, sans-serif;">
   
 <small>
-  
+
+<span style="color: #52adc8;">[2023.Aug]</span>&nbsp;&nbsp;I decided to transfer my PhD to <strong><u>Vera Demberg's</u></strong> group with ERC funding under the topic of [Individualized Interaction in Discourse](https://www.uni-saarland.de/lehrstuhl/demberg/individualized-interaction-in-discourse-iddisc.html)! 🇩🇪
+<br>
 <span style="color: #52adc8;">[2023.May]</span>&nbsp;&nbsp;PeaCoK: Persona Commonsense Knowledge for Consistent and Engaging Narratives has been accepted at<strong><u> ACL2023</u></strong> with <strong><u>Outstanding Paper award</u></strong>! 🥳
 <br>  
 <span style="color: #52adc8;">[2022.Aug]</span>&nbsp;&nbsp;DemoHash: Hashtag Recommendation based on User Demographic Information has been accepted at<strong><u> Expert Systems With Applications</u></strong>! 🥳
