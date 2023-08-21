@@ -9,7 +9,7 @@ redirect_from:
 
 
 Hi, Glad you stopped by :) I'm So-young, 소영, 素暎 from South Korea 🇰🇷. 
-I am a first year PhD student in Computer Science and Computational Linguistics under the supervision of Professor [Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html) under the topic of [Individualized Interaction in Discourse](https://www.uni-saarland.de/lehrstuhl/demberg/individualized-interaction-in-discourse-iddisc.html). 
+I am a first year PhD student in Computer Science and Computational Linguistics under the supervision of Professor [Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html) under the topic of [Individualized Interaction in Discourse](https://www.uni-saarland.de/lehrstuhl/demberg/individualized-interaction-in-discourse-iddisc.html) at Universität des Saarlandes. 
 
 I spent a year at [EPFL](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/) with EDIC Fellowship as a PhD student, where I collaborated with Professor [Antoine Bosselut](https://people.epfl.ch/antoine.bosselut) and Professor [Frédéric Kaplan](https://people.epfl.ch/frederic.kaplan?lang=en) on the topic of Large Language Models. Before then, I received my Master's in Applied AI and Bachelor's in Psychology & Engineering from [Sungkyunkwan University](https://www.skku.edu/eng/) under the supervision of Professor [Eunil Park](https://sites.google.com/view/eunil) where I gained my interest in interdisciplinary research. 
 
