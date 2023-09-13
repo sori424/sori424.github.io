@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Soyoung Oh"
 title_separator          : "-"
 name                     : &name "Soyoung Oh"
-description              : &description "PhD Student in CS @ EPFL"
+description              : &description "PhD Student in CS @ UdS"
 url                      : https://sori424.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sori424/sori424.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Soyoung Oh"
   avatar           : "profile.JPG"
-  bio              : "PhD Student in CS @ EPFL"
-  location         : "Lausanne, Switzerland"
+  bio              : "PhD Student in CS @ UdS"
+  location         : "Saarbrucken, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.kr/citations?user=-dKDQ6EAAAAJ&hl=en"
-  email            :  "soyoung.oh@epfl.ch"
+  email            :  "soyoung@lst.uni-saarland.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
