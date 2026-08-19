@@ -21,7 +21,10 @@ Offline, I like to go hiking, running, weight training, judo, jiu-jitsu (all kin
 <div style="height:150px;width:100%;margin-right:25px;margin-bottom:5px;display:inline-block;text-align:left;padding-left:10px;padding-top:10px;border:1px solid #ccc;overflow:auto;font:15px Merriweather, sans-serif;">
   
 <small>
-
+<span style="color: #52adc8;">[2026]</span>&nbsp;&nbsp;Bridging Fairness and Explainability: Can Input-Based Explanations Promote Fairness in Hate Speech Detection? has been accepted at<strong><u> ICLR2026</u></strong>! 
+<br>  
+<span style="color: #52adc8;">[2026]</span>&nbsp;&nbsp;Tug-of-war between idioms' figurative and literal interpretations in LLMs has been accepted at<strong><u> EACL2026</u></strong>! 🥳
+<br>  
 <span style="color: #52adc8;">[2023.May]</span>&nbsp;&nbsp;PeaCoK: Persona Commonsense Knowledge for Consistent and Engaging Narratives has been accepted at<strong><u> ACL2023</u></strong> with <strong><u>Outstanding Paper award</u></strong>! 🥳
 <br>  
 <span style="color: #52adc8;">[2022.Aug]</span>&nbsp;&nbsp;DemoHash: Hashtag Recommendation based on User Demographic Information has been accepted at<strong><u> Expert Systems With Applications</u></strong>! 🥳
